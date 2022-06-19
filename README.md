@@ -13,7 +13,7 @@ Hi! My name is **Dev Meena**, this is the new project i learned and built
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
 **Essential Variables**
-\*PORT=
+PORT=
 DBURI =
 STRIPE_API_KEY=
 STRIPE_SECRET_KEY=
@@ -29,4 +29,4 @@ CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
 
-fill each filed with your info respectively\*
+fill each filed with your info respectively
