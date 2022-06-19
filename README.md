@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE
 
 Hi! My name is **Dev Meena**, this is the new project i learned and built
 
